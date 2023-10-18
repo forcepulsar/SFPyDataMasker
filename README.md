@@ -1,2 +1,4 @@
 # SFPyDataMasker
-Python scripts to extract sf data, manipulate csv files and update data with bulk api v2
+Python scripts to extract Salesforce data, manipulate csv files and update data using Bulk api v2
+
+[Full Documentation](https://github.com/forcepulsar/SFPyDataMasker/blob/master/SFPyDataMasker.pdf)
